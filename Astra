@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,00000TEST
-http://45.4.169.50:8000/play/a0bb
 #EXTINF:-1,13 C
 http://45.4.169.50:8000/play/a097
 #EXTINF:-1,24 Horas TVN
