@@ -1,7 +1,6 @@
 #EXTM3U
-#EXTINF:-1,AXN
+#EXTINF:-1  tvg-id="AXN.es",AXN
 http://45.4.169.50:8000/play/a05l
-#EXTINF:-1,AXN HD
 #EXTINF:-1,Animal Planet
 http://45.4.169.50:8000/play/a058
 #EXTINF:-1,Animal Planet HD
