@@ -102,6 +102,14 @@ http://45.4.169.50:8000/play/a027
 http://45.4.169.50:8000/play/a085
 #EXTINF:-1,Golden HD
 http://45.4.169.50:8000/play/a07x
+#EXTINF:-1 group-title="-",HBO 2
+http://45.5.151.251:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="-",HBO Family
+http://45.5.151.251:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="-",HBO Plus
+http://45.5.151.251:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="-",HBO Xtreme
+http://45.5.151.251:8000/play/a013/index.m3u8
 #EXTINF:-1,History 2
 http://45.4.169.50:8000/play/a07z
 #EXTINF:-1,History Channel
@@ -118,6 +126,10 @@ http://45.4.169.50:8000/play/a09g
 http://45.4.169.50:8000/play/a0ar
 #EXTINF:-1,National Geographic
 http://45.4.169.50:8000/play/a059
+#EXTINF:-1 group-title="-",Nick Jr
+http://45.5.151.251:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="-",Nickelodeon
+http://45.5.151.251:8000/play/a02b/index.m3u8
 #EXTINF:-1,STAR CHANNEL HD
 http://45.4.169.50:8000/play/a06q
 #EXTINF:-1,STAR CHANNEL HD
@@ -132,6 +144,8 @@ http://45.4.169.50:8000/play/a09k
 http://45.4.169.50:8000/play/a0au
 #EXTINF:-1,Sony Movies
 http://45.4.169.50:8000/play/a08l
+#EXTINF:-1 group-title="-",SPACE
+http://45.5.151.251:8000/play/a016/index.m3u8
 #EXTINF:-1,Stingray Concerts HD
 http://45.4.169.50:8000/play/a0ai
 #EXTINF:-1,Studio Universal HD
@@ -142,6 +156,14 @@ http://45.4.169.50:8000/play/a09h
 http://45.4.169.50:8000/play/a06t
 #EXTINF:-1,UNIVERSAL CHANNEL HD
 http://45.4.169.50:8000/play/a05s
+#EXTINF:-1 group-title="-",UNIVERSAL CINEMA
+http://45.5.151.251:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL COMEDY
+http://45.5.151.251:8000/play/a035/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL CRIME
+http://45.5.151.251:8000/play/a034/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL PREMIERE 1
+http://45.5.151.251:8000/play/a037/index.m3u8
 #EXTINF:-1,USA
 http://45.4.169.50:8000/play/a084
 #EXTINF:-1,Warner Channel
