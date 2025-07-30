@@ -1,50 +1,13 @@
 #EXTM3U
-#EXTINF:-1,13 C
-http://45.4.169.50:8000/play/a097
-#EXTINF:-1,24 Horas TVN
-http://45.4.169.50:8000/play/a05i
-#EXTINF:-1,A&E
-http://45.4.169.50:8000/play/a05m
-#EXTINF:-1,AMC
-http://45.4.169.50:8000/play/a086
-#EXTINF:-1,ANTOFAGASTA_TV
-http://45.4.169.50:8000/play/a01e
-#EXTINF:-1,ATRES SERIES
-http://45.4.169.50:8000/play/a08o
 #EXTINF:-1,AXN
 http://45.4.169.50:8000/play/a05l
 #EXTINF:-1,AXN HD
-http://45.4.169.50:8000/play/a09m
-#EXTINF:-1,America Sport_E4_2004
-http://45.4.169.50:8000/play/a04k
-#EXTINF:-1,America TV HD
-http://45.4.169.50:8000/play/a0ak
 #EXTINF:-1,Animal Planet
 http://45.4.169.50:8000/play/a058
 #EXTINF:-1,Animal Planet HD
 http://45.4.169.50:8000/play/a09d
 #EXTINF:-1,Animal Planet HD
 http://45.4.169.50:8000/play/a0ao
-#EXTINF:-1,Az Corazon_E4_2002
-http://45.4.169.50:8000/play/a04c
-#EXTINF:-1,AzCinema_E3_2004
-http://45.4.169.50:8000/play/a03y
-#EXTINF:-1,BETHEL TV
-http://45.4.169.50:8000/play/a0b2
-#EXTINF:-1,BIO_BIO
-http://45.4.169.50:8000/play/a01x
-#EXTINF:-1,Baby TV
-http://45.4.169.50:8000/play/a05y
-#EXTINF:-1,CANAL13_E2_2003
-http://45.4.169.50:8000/play/a03m
-#EXTINF:-1,CANAL2
-http://45.4.169.50:8000/play/a01f
-#EXTINF:-1,CAROLINA_TV
-http://45.4.169.50:8000/play/a01z
-#EXTINF:-1,CGTN_E4_2006
-http://45.4.169.50:8000/play/a04p
-#EXTINF:-1,CHV HD
-http://45.4.169.50:8000/play/a073
 #EXTINF:-1,CINELATINO
 http://45.4.169.50:8000/play/a001
 #EXTINF:-1,Canal 11_E4_2006
@@ -59,22 +22,10 @@ http://45.4.169.50:8000/play/a06r
 http://45.4.169.50:8000/play/a0as
 #EXTINF:-1,Cinecanal HD
 http://45.4.169.50:8000/play/a09i
-#EXTINF:-1,Cinelatino_E3_2001
-http://45.4.169.50:8000/play/a03r
 #EXTINF:-1,Cinemax HD
 http://45.4.169.50:8000/play/a06f
 #EXTINF:-1,Comedy Central
 http://45.4.169.50:8000/play/a05n
-#EXTINF:-1,DECIMATV
-http://45.4.169.50:8000/play/a01g
-#EXTINF:-1,DHE HD
-http://45.4.169.50:8000/play/a0b4
-#EXTINF:-1,DHE HD
-http://45.4.169.50:8000/play/a099
-#EXTINF:-1,DREAMWORKS_E2_2001
-http://45.4.169.50:8000/play/a02p
-#EXTINF:-1,De Película
-http://45.4.169.50:8000/play/a08d
 #EXTINF:-1,Discovery Channel HD
 http://45.4.169.50:8000/play/a0ap
 #EXTINF:-1,Discovery Channel HD
@@ -109,10 +60,6 @@ http://45.4.169.50:8000/play/a09p
 http://45.4.169.50:8000/play/a06c
 #EXTINF:-1,Disney Junior
 http://45.4.169.50:8000/play/a0ad
-#EXTINF:-1,Distrito Comedia
-http://45.4.169.50:8000/play/a08c
-#EXTINF:-1,E! Entertainment TV
-http://45.4.169.50:8000/play/a07m
 #EXTINF:-1,ESPN 2 HD
 http://45.4.169.50:8000/play/a06u
 #EXTINF:-1,ESPN 2 HD
@@ -143,50 +90,18 @@ http://45.4.169.50:8000/play/a09q
 http://45.4.169.50:8000/play/a07a
 #EXTINF:-1,ESPN Premium HD
 http://45.4.169.50:8000/play/a07c
-#EXTINF:-1,ETC TV
-http://45.4.169.50:8000/play/a07l
-#EXTINF:-1,EWTN
-http://45.4.169.50:8000/play/a0b1
-#EXTINF:-1,EWTN
-http://45.4.169.50:8000/play/a083
-#EXTINF:-1,EXATV
-http://45.4.169.50:8000/play/a01u
-#EXTINF:-1,El Gourmet
-http://45.4.169.50:8000/play/a05b
-#EXTINF:-1,El Trece
-http://45.4.169.50:8000/play/a05j
-#EXTINF:-1,Enlace
-http://45.4.169.50:8000/play/a08e
-#EXTINF:-1,Europa Europa
-http://45.4.169.50:8000/play/a08h
-#EXTINF:-1,FRANCE24
-http://45.4.169.50:8000/play/a023
 #EXTINF:-1,FX HD
 http://45.4.169.50:8000/play/a06v
 #EXTINF:-1,FX HD
 http://45.4.169.50:8000/play/a0az
 #EXTINF:-1,FX HD
 http://45.4.169.50:8000/play/a09s
-#EXTINF:-1,Film&Arts
-http://45.4.169.50:8000/play/a08i
-#EXTINF:-1,GIROVISUAL2
-http://45.4.169.50:8000/play/a01h
-#EXTINF:-1,GOLDEN_LATINO
-http://45.4.169.50:8000/play/a025
 #EXTINF:-1,GOLDEN_PREMIER
 http://45.4.169.50:8000/play/a027
 #EXTINF:-1,Golden Edge
 http://45.4.169.50:8000/play/a085
 #EXTINF:-1,Golden HD
 http://45.4.169.50:8000/play/a07x
-#EXTINF:-1,HEI HD
-http://45.4.169.50:8000/play/a0ag
-#EXTINF:-1,HGTV
-http://45.4.169.50:8000/play/a082
-#EXTINF:-1,HOLVOETTV
-http://45.4.169.50:8000/play/a01i
-#EXTINF:-1,Hispan TV_E4_2005
-http://45.4.169.50:8000/play/a04n
 #EXTINF:-1,History 2
 http://45.4.169.50:8000/play/a07z
 #EXTINF:-1,History Channel
@@ -195,96 +110,20 @@ http://45.4.169.50:8000/play/a05a
 http://45.4.169.50:8000/play/a09f
 #EXTINF:-1,History Channel HD
 http://45.4.169.50:8000/play/a0aq
-#EXTINF:-1,Hola TV
-http://45.4.169.50:8000/play/a05e
-#EXTINF:-1,Home Garde Tv_E4_2003
-http://45.4.169.50:8000/play/a04f
-#EXTINF:-1,Hualavision_E4_2001
-http://45.4.169.50:8000/play/a048
-#EXTINF:-1,ID HD
-http://45.4.169.50:8000/play/a0aw
-#EXTINF:-1,ID HD
-http://45.4.169.50:8000/play/a05c
-#EXTINF:-1,ID HD
-http://45.4.169.50:8000/play/a09n
-#EXTINF:-1,INET2
-http://45.4.169.50:8000/play/a01j
-#EXTINF:-1,INFAST
-http://45.4.169.50:8000/play/a004
-#EXTINF:-1,INTROUBLE
-http://45.4.169.50:8000/play/a028
-#EXTINF:-1,INWONDER
-http://45.4.169.50:8000/play/a029
-#EXTINF:-1,INWONDER_RTP
-http://45.4.169.50:8000/play/a0be
-#EXTINF:-1,ITV
-http://45.4.169.50:8000/play/a01k
-#EXTINF:-1,La Red HD
-http://45.4.169.50:8000/play/a07g
-#EXTINF:-1,LaMejor_mbs
-http://45.4.169.50:8000/play/a01t
-#EXTINF:-1,Las Estrellas
-http://45.4.169.50:8000/play/a07r
-#EXTINF:-1,Latina HD
-http://45.4.169.50:8000/play/a0al
-#EXTINF:-1,Lifetime
-http://45.4.169.50:8000/play/a08j
-#EXTINF:-1,Lifetime
-http://45.4.169.50:8000/play/a0b6
-#EXTINF:-1,MEGA HD
-http://45.4.169.50:8000/play/a06l
-#EXTINF:-1,MEGA2
-http://45.4.169.50:8000/play/a02c
-#EXTINF:-1,MEGA2_RTP
-http://45.4.169.50:8000/play/a0bf
-#EXTINF:-1,MEGANOTICIAS
-http://45.4.169.50:8000/play/a02f
-#EXTINF:-1,MEGA_FICCION
-http://45.4.169.50:8000/play/a02d
-#EXTINF:-1,MEGA_TIEMPO
-http://45.4.169.50:8000/play/a02e
-#EXTINF:-1,MTV LIVE HD
-http://45.4.169.50:8000/play/a098
-#EXTINF:-1,Multicinema
-http://45.4.169.50:8000/play/a01v
 #EXTINF:-1,Multipremier
 http://45.4.169.50:8000/play/a01w
-#EXTINF:-1,MásChic
-http://45.4.169.50:8000/play/a08k
-#EXTINF:-1,NTV
-http://45.4.169.50:8000/play/a07v
 #EXTINF:-1,Nat Geo HD
 http://45.4.169.50:8000/play/a09g
 #EXTINF:-1,Nat Geo HD
 http://45.4.169.50:8000/play/a0ar
 #EXTINF:-1,National Geographic
 http://45.4.169.50:8000/play/a059
-#EXTINF:-1,OXIGENO
-http://45.4.169.50:8000/play/a02g
-#EXTINF:-1,POPU TV
-http://45.4.169.50:8000/play/a0am
-#EXTINF:-1,PUCONTV
-http://45.4.169.50:8000/play/a01l
-#EXTINF:-1,Pasiones
-http://45.4.169.50:8000/play/a05p
-#EXTINF:-1,RCN HD
-http://45.4.169.50:8000/play/a07b
-#EXTINF:-1,RED
-http://45.4.169.50:8000/play/a012
-#EXTINF:-1,RTESPANOL
-http://45.4.169.50:8000/play/a02h
-#EXTINF:-1,SEMPAI
-http://45.4.169.50:8000/play/a02i
 #EXTINF:-1,STAR CHANNEL HD
 http://45.4.169.50:8000/play/a06q
 #EXTINF:-1,STAR CHANNEL HD
 http://45.4.169.50:8000/play/a0b0
 #EXTINF:-1,STAR CHANNEL HD
 http://45.4.169.50:8000/play/a09t
-#EXTINF:-1,SUYAI TV
-http://45.4.169.50:8000/play/a09v
-#EXTINF:-1,Señal Colombia_E4_2005 (clone)
-http://45.4.169.50:8000/play/a0bc
 #EXTINF:-1,Sony
 http://45.4.169.50:8000/play/a05k
 #EXTINF:-1,Sony HD
@@ -297,79 +136,17 @@ http://45.4.169.50:8000/play/a08l
 http://45.4.169.50:8000/play/a0ai
 #EXTINF:-1,Studio Universal HD
 http://45.4.169.50:8000/play/a07j
-#EXTINF:-1,Sun Channel
-http://45.4.169.50:8000/play/a05o
-#EXTINF:-1,TELEANGOL
-http://45.4.169.50:8000/play/a01m
-#EXTINF:-1,TELEHIT
-http://45.4.169.50:8000/play/a02j
-#EXTINF:-1,TELEHIT_MUSICA
-http://45.4.169.50:8000/play/a02k
-#EXTINF:-1,TELEHIT_MUSICA_PLUS
-http://45.4.169.50:8000/play/a02l
-#EXTINF:-1,TEST USA ENCODER
-http://45.4.169.50:8000/play/a0b9
-#EXTINF:-1,TLC
-http://45.4.169.50:8000/play/a0ac
-#EXTINF:-1,TLNOVELAS
-http://45.4.169.50:8000/play/a02m
 #EXTINF:-1,TNT HD
 http://45.4.169.50:8000/play/a09h
-#EXTINF:-1,TNT NOVELAS
-http://45.4.169.50:8000/play/a05g
 #EXTINF:-1,TNT Sports Premiun HD
 http://45.4.169.50:8000/play/a06t
-#EXTINF:-1,TV Diputados
-http://45.4.169.50:8000/play/a089
-#EXTINF:-1,TV Senado
-http://45.4.169.50:8000/play/a088
-#EXTINF:-1,TV+
-http://45.4.169.50:8000/play/a07k
-#EXTINF:-1,TVE
-http://45.4.169.50:8000/play/a0a3
-#EXTINF:-1,TVMAS
-http://45.4.169.50:8000/play/a01a
-#EXTINF:-1,TVN
-http://45.4.169.50:8000/play/a01b
-#EXTINF:-1,TVN HD
-http://45.4.169.50:8000/play/a072
-#EXTINF:-1,TVQUELLON
-http://45.4.169.50:8000/play/a01n
-#EXTINF:-1,TVR
-http://45.4.169.50:8000/play/a01o
-#EXTINF:-1,TVU
-http://45.4.169.50:8000/play/a01p
-#EXTINF:-1,Telecanal
-http://45.4.169.50:8000/play/a0a0
-#EXTINF:-1,Telemundo
-http://45.4.169.50:8000/play/a081
-#EXTINF:-1,Telenovelas
-http://45.4.169.50:8000/play/a08n
-#EXTINF:-1,Telesur
-http://45.4.169.50:8000/play/a087
-#EXTINF:-1,Teletrak
-http://45.4.169.50:8000/play/a07n
-#EXTINF:-1,UATV
-http://45.4.169.50:8000/play/a01q
-#EXTINF:-1,UCL
-http://45.4.169.50:8000/play/a08r
-#EXTINF:-1,UCV1
-http://45.4.169.50:8000/play/a02n
-#EXTINF:-1,UCV2
-http://45.4.169.50:8000/play/a02o
 #EXTINF:-1,UNIVERSAL CHANNEL HD
 http://45.4.169.50:8000/play/a05s
 #EXTINF:-1,USA
 http://45.4.169.50:8000/play/a084
-#EXTINF:-1,VTV
-http://45.4.169.50:8000/play/a01r
 #EXTINF:-1,Warner Channel
 http://45.4.169.50:8000/play/a09c
 #EXTINF:-1,Warner Channel HD
 http://45.4.169.50:8000/play/a09l
 #EXTINF:-1,Win Sports+ HD
 http://45.4.169.50:8000/play/a0af
-#EXTINF:-1,ZooMoo_E2_2002
-http://45.4.169.50:8000/play/a03e
-#EXTINF:-1,kidooo
-http://45.4.169.50:8000/play/a01s
