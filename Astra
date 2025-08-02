@@ -2,42 +2,22 @@
 #EXTINF:-1 group-title="Movies" tvg-id="AXN",AXN
 http://45.4.169.50:8000/play/a05l
 #EXTINF:-1 group-title="Documentals" tvg-id="AnimalPlanet.us",Animal Planet
-http://45.4.169.50:8000/play/a058
-#EXTINF:-1,Animal Planet HD
-http://45.4.169.50:8000/play/a09d
-#EXTINF:-1,Animal Planet HD
 http://45.4.169.50:8000/play/a0ao
-#EXTINF:-1,CINELATINO
-http://45.4.169.50:8000/play/a001
-#EXTINF:-1,Canal 11_E4_2006
-http://45.4.169.50:8000/play/a04q
-#EXTINF:-1,Canal 13 HD
-http://45.4.169.50:8000/play/a06m
-#EXTINF:-1,Cartoon Network
-http://45.4.169.50:8000/play/a057
-#EXTINF:-1,Cinecanal HD
+#EXTINF:-1 group-title="Movies" tvg-id="Cinecanal",Cinecanal HD
 http://45.4.169.50:8000/play/a06r
-#EXTINF:-1,Cinecanal HD
+#EXTINF:-1 group-title="Movies" tvg-id="Disney+", Disney +
 http://45.4.169.50:8000/play/a0as
-#EXTINF:-1,Cinecanal HD
-http://45.4.169.50:8000/play/a09i
-#EXTINF:-1,Cinemax HD
+#EXTINF:-1 group-title="Movies" tvg-id="Cinemax",Cinemax HD
 http://45.4.169.50:8000/play/a06f
-#EXTINF:-1,Comedy Central
-http://45.4.169.50:8000/play/a05n
-#EXTINF:-1,Discovery Channel HD
+#EXTINF:-1 group-title="Documentals" tvg-id="DiscoveryChannel",Discovery Channel HD
 http://45.4.169.50:8000/play/a0ap
-#EXTINF:-1,Discovery Channel HD
-http://45.4.169.50:8000/play/a09e
-#EXTINF:-1,Discovery H&H
-http://45.4.169.50:8000/play/a06x
-#EXTINF:-1,Discovery H&H HD
+#EXTINF:-1 group-title="Documentals" tvg-id="DiscoveryH&H",Discovery H&H
 http://45.4.169.50:8000/play/a074
-#EXTINF:-1,Discovery HD
+#EXTINF:-1 group-title="Documentals" tvg-id="Discovery",Discovery HD
 http://45.4.169.50:8000/play/a08a
-#EXTINF:-1,Discovery Kids HD
+#EXTINF:-1 group-title="KIDS" tvg-id="DiscoveryKids",Discovery Kids HD
 http://45.4.169.50:8000/play/a06o
-#EXTINF:-1,Discovery Science
+#EXTINF:-1 group-title="Documentals" tvg-id="DiscoveryScience",Discovery Science
 http://45.4.169.50:8000/play/a08b
 #EXTINF:-1,Discovery Theater
 http://45.4.169.50:8000/play/a06y
