@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1  tvg-id="AXN.es",AXN
+#EXTINF:-1 group-title="Movies" tvg-id="AXN",AXN
 http://45.4.169.50:8000/play/a05l
-#EXTINF:-1,Animal Planet
+#EXTINF:-1 group-title="Documentals" tvg-id="AnimalPlanet.us",Animal Planet
 http://45.4.169.50:8000/play/a058
 #EXTINF:-1,Animal Planet HD
 http://45.4.169.50:8000/play/a09d
@@ -101,13 +101,13 @@ http://45.4.169.50:8000/play/a027
 http://45.4.169.50:8000/play/a085
 #EXTINF:-1,Golden HD
 http://45.4.169.50:8000/play/a07x
-#EXTINF:-1 group-title="-",HBO 2
+#EXTINF:-1 group-title="Movies",HBO 2
 http://45.5.151.251:8000/play/a010/index.m3u8
-#EXTINF:-1 group-title="-",HBO Family
+#EXTINF:-1 group-title="Movies",HBO Family
 http://45.5.151.251:8000/play/a011/index.m3u8
-#EXTINF:-1 group-title="-",HBO Plus
+#EXTINF:-1 group-title="Movies",HBO Plus
 http://45.5.151.251:8000/play/a012/index.m3u8
-#EXTINF:-1 group-title="-",HBO Xtreme
+#EXTINF:-1 group-title="Movies",HBO Xtreme
 http://45.5.151.251:8000/play/a013/index.m3u8
 #EXTINF:-1,History 2
 http://45.4.169.50:8000/play/a07z
